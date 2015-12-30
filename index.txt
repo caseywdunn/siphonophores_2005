@@ -1,0 +1,86 @@
+FASTA tag	Generic ID	Species	More name	Specimen ID	Well	18s	16s	CO1	Voucher location (Full Name)	Voucher location (Short Name)	voucher accession number	Physical voucher	Photo voucher	Other Photographs	Video	Col. Date	Latitude	Longitude	Depth (m)	Notes	In phylogeny	seq #
+CWD1	CWD1	Agalma clausi		OC381-18-6	1A	AY937312	AY935270		Yale Peabody Museum	YPM	No. 35024	yes				9/22/2002	37.43°N	72.68°W	BW		y	1
+CWD2	CWD2	Agalma elegans	Atlantic	OC381-7-27	1B	AY937313	AY935271	AY937363	Yale Peabody Museum	YPM	No. 35029	yes				9/18/2002	37.63°N	73.45°W	BW		y	2
+CWD3	CWD3	Agalma okeni		OC381-5-5	1C	AY937314	AY935272		Yale Peabody Museum	YPM	No. 35030	yes				9/17/2002	38.17°N	72.98°W	BW		y	3
+CWD4	CWD4	Apolemia sp 1		OC368-7-20	1D	AY937315	AY935273	AY937365	Yale Peabody Museum	YPM	No. 35035	yes				7/6/2001	38.48°N	73.00°W	BW	Apolemia J	y	4
+CWD5	CWD5	Athorybia rosacea	Atlantic	OC381-22-25	1E	AY937316	AY935274	AY937364	Yale Peabody Museum	YPM	No. 35031	yes				9/24/2002	38.91°N	70.27°W	BW		y	5
+CWD6	CWD6	Cordagalma cordiforme		OC379-16-20	1F	AY937317	AY935275	AY937366	Yale Peabody Museum	YPM	No. 35032	yes				6/11/2002	37.68°N	73.13°W	BW		y	6
+CWD7	CWD7	Diphyes dispar		OC381-9-4	1G	AY937318	AY935276	AY937367	Yale Peabody Museum	YPM	No. 35033	yes				9/19/2002	36.98°N	73.85°W	BW		y	7
+CWD8	CWD8	Forskalia asymmetrica		JSLII3268D5	1H	AY937319	AY935277	AY937368	Yale Peabody Museum	YPM	"No. 35034A, 35034B"	yes				7/1/2002	40.31°N	68.13°W	610		y	8
+CWD9	CWD9	Forskalia edwardsi	Atlantic	OC379-5-18	2A	AY937320	AY935278	AY937369	Yale Peabody Museum	YPM	No. 35036	yes				6/3/2002	37.84°N	73.83°W	BW		y	9
+CWD10	CWD10	Forskalia tholoides		OC381-13-14	2B	AY937321	AY935279	AY937370	Yale Peabody Museum	YPM	No. 35037	yes				9/21/2002	36.97°N	74.00°W	BW		y	10
+CWD11	CWD11	Stephanomia amphytridis 		JSL3272D1	2C	AY937322	AY935280	AY937371	Yale Peabody Museum	YPM	No. 35076	yes	yes	yes		7/3/2002	40.31°N	68.13°W	800		y	11
+CWD12	CWD12	Halistemma rubrum 	Med	VF041603	2D	AY937323	AY935281	AY937372	Yale Peabody Museum	YPM	No. 35038	yes				4/16/2003	43.68°N	7.33°E	BW		y	12
+CWD16	CWD16	Nanomia bijuga	Atlantic	OC379-11-7	2H	AY937324	AY935282	AY937373	Yale Peabody Museum	YPM	No. 35039	yes				6/8/2002	37.45°N	74.02°W	BW		y	16
+CWD17	CWD17	Halistemma rubrum 	Atlantic	OC381-3-20	3A	AY937325	AY935283		Yale Peabody Museum	YPM	No. 35040	yes				9/16/2002	38.85°N	72.45°W	BW		y	17
+PHYSALIA	CWD18	Physalia physalis		OC370	3B		AY935284	AY937374	Yale Peabody Museum	YPM	No. 35345	no	yes	yes		9/24/2001	39.15°N	72.4°W	BW		y	18
+CWD19	CWD19	Praya dubia		MBARI031299	3C	AY937326	AY935285	AY937375	Yale Peabody Museum	YPM	No. 35346	no	yes	yes		3/12/1999	36.71°N	122.05°W	298		y	19
+CWD20	CWD20	Rhizophysa filiformis		MBARI-OC	3D	AY937327	AY935286	AY937377	Yale Peabody Museum	YPM	No. 35347	no	yes	yes		7/20/1999	40.31°N	68.14°W	BW		y	20
+CWD21	CWD21	Rosacea flaccida		OC381-22-18	3E	AY937328	AY935287	AY937376	Yale Peabody Museum	YPM	No. 35041	yes				9/24/2002	38.9°N	70.27°W	BW		y	21
+CWD25	CWD25	Sulculeolaria quadrivalvis	Atlantic	OC368-3-16	4A	AY937329	AY935288	AY937378	Yale Peabody Museum	YPM	No. 35042	yes				7/4/2001	38.48°N	73.03°W	BW		y	25
+CWD100	CWD100	Apolemia sp 2		Tib594D1	4B	AY937330	AY935289		Yale Peabody Museum	YPM	No. 35089	yes				7/17/2003	36.21°N	122.53°W	1550	exploding red	y	26
+CWD101	CWD101	Apolemia sp 3		Tib595D1	4C	AY937331	AY935290		Yale Peabody Museum	YPM	No. 35090	yes				7/18/2003	36.23°N	122.77°W	387	Apolemia C	y	27
+CWD102	CWD102	Apolemia sp 4		Tib596D5	4D	AY937332	AY935291		Yale Peabody Museum	YPM	No. 35091	yes				7/19/2003	36.22°N	123.77°W	1155		y	28
+CWD103	CWD103	Bargmannia amoena		Tib598SS1	4E	AY937333	AY935292		Monterey Bay Aquarium Research Institute	MBARI						7/21/2003	36.36°N	122.66°W	1364		y	29
+BAE	CWD104	Bargmannia elongata		Tib596SS12	4F	AY937334			Monterey Bay Aquarium Research Institute	MBARI						7/19/2003	36.22°N	123.77°W	877		y	30
+CWD105	CWD105	Chuniphyes multidentata		Tib594SS2	4G	AY937335	AY935293		"Monterey Bay Aquarium Research Institute, Yale Peabody Museum"	"MBARI, YPM"	No. 35348	no	yes	yes		7/17/2003	36.21°N	122.53°W	661		y	31
+CWD106	CWD106	Clausophyes ovata		Tib594D5	4H	AY937336	AY935294		"Monterey Bay Aquarium Research Institute, Yale Peabody Museum"	"MBARI, YPM"	No. 35349	no	yes	yes		7/17/2003	36.21°N	122.53°W	2000		y	32
+CWD109	CWD109	Muggiaea atlantica		MBARI071903BW	5C	AY937337	AY935295		(none)			no				7/19/2003	36.22°N	123.77°W	BW	Phil ID- no voucher	y	35
+CWD110	CWD110	Nanomia bijuga	Pacific	MBARI071903BW	5D	AY937338	AY935296		Yale Peabody Museum	YPM	No. 35043	yes				7/19/2003	36.22°N	123.77°W	BW		y	36
+CWD115	CWD115	Craseoa lathetica		Tib595SS1	6A	AY937339	AY935297		Yale Peabody Museum	YPM	No. 35044	yes				7/18/2003	36.23°N	122.77°W	402		y	41
+CWD116	CWD116	Agalma elegans	Pacific	MBARI071903BW	6B	AY937340	AY935298		(none)			no				7/19/2003	36.22°N	123.77°W	BW	nects fixed- MBARI?	y	42
+CWD117	CWD117	Hippopodius hippopus	Atlantic	OC394-5-4	6C	AY937341	AY935299		Yale Peabody Museum	YPM	No. 35045	yes				6/28/1999	39.70°N	70.92°W	BW		y	43
+CWD118	CWD118	Physophora hydrostatica		OC394-1-15	6D	AY937342	AY935300		Yale Peabody Museum	YPM	No. 35046	yes				6/27/2003	39.75°N	70.60°W	BW		y	44
+CWD119	CWD119	Sphaeronectes gracilis		OC394-3-14	6E	AY937343	AY935301		Yale Peabody Museum	YPM	No. 35047	yes				6/28/2003	39.57°N	71.40°W	BW		y	45
+CWD120	CWD120	Forskalia formosa		OC394-6-21	6F	AY937344	AY935302		Yale Peabody Museum	YPM	No. 35048	yes				6/28/1999	39.75°N	70.87°W	BW		y	46
+CWD121	CWD121	Abylopsis tetragona		OC394-6-22	6G	AY937345	AY935303		Yale Peabody Museum	YPM	No. 35350	no	yes	yes		6/28/1999	39.75°N	70.87°W	BW		y	47
+CWD122	CWD122	Chelophyes appendiculata		OC394-5-19	6H	AY937346	AY935304		Yale Peabody Museum	YPM	No. 35049	yes				6/28/1999	39.7°N	70.90°W	BW		y	48
+CWD123	CWD123	Clausophyid sp 1		398D1	7A	AY937347	AY935305		Yale Peabody Museum	YPM	No. 35351	no	yes	yes		 2/23/2002	36.57°N	122.52°W	3800	(was fixed)	y	49
+CWD128	CWD128	Nectadamas diomedeae		Ventana2354d6	7F	AY937348	AY935306		Yale Peabody Museum	YPM	No. 35352	no	yes	yes		5/5/2003	36.70°N	122.05°W	392	"eudoxid, 8V03robidive, (fixed but not found)"	y	54
+CWD129	CWD129	Nectopyramis natans		Dive260 2-27-01	7G	AY937349	AY935307		Yale Peabody Museum	YPM	No. 35353	no	yes	yes		2/23/2001	36.57°N	122.52°W	759	"eudoxid, (not known if fixed)"	y	55
+CWD130	CWD130	Vogtia glabra		7-19-99ocanyon	7H	AY937350	AY935308		Yale Peabody Museum	YPM	No. 35354	no	yes	yes		7/19/1999	40.31°N	68.14°W	700	Trawl	y	56
+CWD131	CWD131	Rhizophysa eysenhardti		BW415May03GOC#59	8A	AY937351	AY935309		Yale Peabody Museum	YPM	No. 35355	no	yes	yes		3/15/2003	24.32°N	109.20°W	BW	BW 4	y	57
+CWD133	CWD133	Athorybia rosacea	Pacific	GOC#8-12Mar03	8C	AY937352	AY935310		Yale Peabody Museum	YPM	No. 35356	no	yes	yes		3/12/2003	24.32°N	109.20°W	BW	BW 1	y	59
+CWD134	CWD134	Sulculeolaria quadrivalvis	Pacific	GOC#17-13Mar03BW2	8D	AY937353	AY935311		Yale Peabody Museum	YPM	No. 35357	no	yes	yes		3/13/2003	25.45°N	109.84°W	BW	BW 2	y	60
+CWD135	CWD135	Forskalia edwardsi	Pacific 1	GOC#19-13Mar03BW2	8E	AY937354	AY935312		El Colegio de la Frontera Sur Mexico	ECOSUR						3/13/2003	25.45°N	109.84°W	BW		y	61
+CWD137	CWD137	Forskalia edwardsi	Pacific 2	GOC#24-BW2-#2-13Mar03	8G	AY937355	AY935313		El Colegio de la Frontera Sur Mexico	ECOSUR						3/13/2003	25.45°N	109.84°W	BW	"BW 2, f? (does this mean formosa?"	y	63
+CWD140	CWD140	Hippopodius hippopus	Pacific	GOC#156-24Mar03-BW8	9B	AY937356	AY935314		El Colegio de la Frontera Sur Mexico	ECOSUR						3/24/2003	24.32°N	109.20°W	BW	BW 8	y	66
+CWD141	CWD141	Stephalia dilata		26III03-GOC#188	9C	AY937357	AY935315		Yale Peabody Museum	YPM	No. 35358		yes	yes		3/26/2003	24.31°N	109.20°W	1349m	dive 543 s6	y	67
+CWD142	CWD142	Halistemma rubrum	Pacific	GOCII#216-26Mar03-544-555	9D	AY937358	AY935316		"El Colegio de la Frontera Sur Mexico, Yale Peabody Museum"	"ECOSUR, YPM"	No. 35359		yes	yes		3/26/2003	23.62°N	108.78°W	363m	dive 544 s5	y	68
+CWD144	CWD144	Gymnopraia lapislazula		Tib105SS8	9F	AY937359	AY935317		Yale Peabody Museum	YPM	No. 35360		yes	yes		1/13/2000	36.70°N	122.04°W	420m	blue siph	y	70
+CWD145	CWD145	Lensia conoidea		411SS10	9G	AY937360	AY935318		Yale Peabody Museum	YPM	No. 35361		yes	yes		3/22/2002	36.72°N	122.07°W	350m	dive 411 ss10	y	71
+CWD146	CWD146	Erenna sp		531D3	9H	AY937361	AY935319		Yale Peabody Museum	YPM	No. 35362		yes	yes		3/13/2003	24.32°N	109.2°W	910m	dive 531 d3	y	72
+PORPITA	CWD147	Porpita porpita		23III-03Trawl11GOC#148	10A		AY935322		(none)					none		3/27/2003	24.32°N	109.2°W	0-100m	Trawl 17	y	73
+VELELLA	CWD148	Velella velella		WF7/19/03	10B		AY935323		(none)					none		7/19/2003	36.60°N	123.77°W	530.7m	dive 596 	y	74
+CWD151	CWD151	Vogtia pentacantha		2187ss8		AY937362	AY935320		Yale Peabody Museum	YPM	No. 35363		yes	yes		6-20-2002	36.7°N	122.05°W	617	voucher not found	y	77
+BAE	CWD152	Bargmannia elongata		MBARI334			AY935321		Yale Peabody Museum	YPM	No. 35364		yes	yes		7/17/2001	36.33°N	122.9°W	918		y	78
+CWD149	CWD149	Hydractinia symbiolongicarpus		Buss411-7	10C	9/29/03 band															n	75
+PHYSALIA	AF358065	Physalia physalis				x															y	79
+PORPITA	AF358086	Porpita porpita				x															y	80
+VELELLA	AF358087	Velella velella				x															y	81
+STAURO	AF358084	Staurocladia wellingtoni				x															y	82
+HYDRA	AF358080	Hydra				x															y	83
+STAURO	AJ580934	Staurocladia wellingtoni					x														y	84
+HYDRA	AF100773	Hydra					x														y	85
+CWD13	CWD13	Lilyopsis rosea		VF041503	2E	x	p		YPM							4/15/2003			BW			13
+CWD14	CWD14	Lychnagalma urticularia		JSLII3268-D8	2F	p	x		YPM										690			14
+CWD15	CWD15	Marrus orthocanna		JSLII3265-D4	2G	n	x		YPM										580			15
+CWD22	CWD22	Rosacea cymbiformis		OC368-20-9	3F	x			none								36 38.548	74 23.63	BW			22
+CWD23	CWD23	Stephanophyes		OC381-8-26	3G	p	x		Phil							9/19/2002	3700	7351	BW			23
+CWD24	CWD24	Sulculeolaria monoica		OC381-9-17	3H				Phil							9/19/2002	3659	7351	BW	Hydra circumcincta		24
+CWD107	CWD107	Desmophyes haematogaster		Tib596SS11	5A		x		MBARI								36.22*	123.77				33
+CWD108	CWD108	Erenna laciniata		Tib594SS7	5B		failed seq 10/7/03		MBARI								36.21*	122.53		Hydra vulgaris		34
+CWD111	CWD111	Physonect 1		Tib595SS3	5E	10/19/03 plug	x										36.23*	122.77		Forskalia? Formosa? D haematogaster also in sampler		37
+CWD112	CWD112	Marrus claudanielis		Tib596D2	5F		x		Yale Peabody								36.22*	123.77		holotype		38
+CWD113	CWD113	Physonect E		Tib598SS3	5G	x	failed seq 10/7/03		SOC/ MBARI (in lab)								36.36*	122.66				39
+CWD114	CWD114	Craseoa lathetica		Tib594D3	5H	10/3/03 band	x		YPM								36.21*	122.53				40
+CWD124	CWD124	Bassia bassensis		oceanoBWdive	7B	10/3/03 band										6/15/2001			BW			50
+CWD125	CWD125	Floaty siph		260SS8	7C	10/3/03 band																51
+CWD126	CWD126	Gilia reticulata		409SS10	7D	x	failed seq 10/7/03- contamination															52
+CWD127	CWD127	Lensia hostile		FlyerTrawltp700m	7E	10/3/03 band	failed seq 10/7/03									7/13/2002						53
+CWD132	CWD132	Physophora hydrostatica		533DS3GOC57-15May03	8B		x		not known							3/15/03	25.45*	109.83	839	dive 533 d3		58
+CWD136	CWD136	Orange Physo		GOC-3/13/03-3of3#22	8F		failed seq 10/7/03									5/13/03	24.32*	109.2	1145	dive 531 d2		62
+CWD138	CWD138	Diphyes bojani		GOC#158BW8-24Mar03	8H	9/29/03 band	x		(not known if fixed)							3/24/03	24* 	19	BW	BW 8		64
+CWD139	CWD139	Chelophyes contorta		GOC#157BW824III	9A	9/29/03 band	x									3/24/03	24* 	19	BW	BW 8		65
+CWD143	CWD143	Lilyopsis		BW#1st.17GOC#255	9E	9/29/03 band										5/23/03	24*  	13.4	BW	BW 1		69
+CWD150	CWD150	Enneagonum		HatterasSH8-29-96	10D	9/29/03 band	failed seq 10/7/03									8/29/1996						76

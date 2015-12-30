@@ -11,5 +11,9 @@ The files are:
 
 - `Dunn_10Mar05.nex` The nexus file submitted to treebase. Sequence matrix data include the aligned sequence data, taxon sets, and character partitions. It includes newick trees, without branch lengths, for figures 5 and 6.
 
+- `figure_5a.tre` Newick tree for figure 5a. (Note to self: made by converting nexus tree in `siph\ phylogeny\ 2005/runs/18Jul04ml/branches.LSU.replacenames.tre` to newick format with Mesquite, then renaming "Prayine_2" as "Gymnopraia_lapislazula", and "Prayine_1" as "Clausophyid_sp_1")
+
+- `figure_5b.tre` Newick tree for figure 5b. (Note to self: made as above, but starting from `siph\ phylogeny\ 2005/runs/18Jul04ml/branches.SSU.replacenames.tre`)
+
 
 
