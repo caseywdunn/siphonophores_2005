@@ -7,7 +7,7 @@ This repository contains files for the analyses presented in:
 
 ## Data
 
-The files are:
+The files include:
 
 - `Dunn_10Mar05.nex` The nexus file submitted to treebase. Sequence matrix data include the aligned sequence data, taxon sets, and character partitions. It includes newick trees, without branch lengths, for figures 5 and 6.
 
@@ -19,5 +19,5 @@ The files are:
 
 Additional information has come to light regarding taxon names since the publication of the manuscript.
 
-- *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Suebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
+- *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Siebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
 
