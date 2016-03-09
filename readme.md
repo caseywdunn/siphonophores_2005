@@ -15,5 +15,9 @@ The files are:
 
 - `figure_5b.tre` Newick tree for figure 5b. (Note to self: made as above, but starting from `siph\ phylogeny\ 2005/runs/18Jul04ml/branches.SSU.replacenames.tre`)
 
+## Taxon names
 
+Additional information has come to light regarding taxon names since the publication of the manuscript.
+
+- *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Suebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
 
