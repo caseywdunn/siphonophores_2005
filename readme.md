@@ -17,7 +17,8 @@ The files include:
 
 ## Taxon names
 
-Additional information has come to light regarding taxon names since the publication of the manuscript.
+There have been several updates on taxon names since the publication of the manuscript.
 
 - *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Siebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
 
+- *Clausophyes ovata* has been renamed *Kephyes ovata* by [Pugh 2006](http://dx.doi.org/10.1017/S002531540601397X)
