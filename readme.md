@@ -5,6 +5,10 @@ This repository contains files for the analyses presented in:
 > Dunn, CW, PR Pugh, and SHD Haddock (2005) Molecular phylogenetics of the Siphonophora (Cnidaria), with implications for the evolution of functional specialization. Systematic Biology 54:916-935. [doi:10.1080/10635150500354837](http://dx.doi.org/10.1080/10635150500354837)
 
 
+![Figure 6](./figure6.png?raw=true)
+Figure 6 from [doi:10.1080/10635150500354837](http://dx.doi.org/10.1080/10635150500354837).
+
+
 ## Data
 
 The files include:
@@ -19,6 +23,10 @@ The files include:
 
 There have been several updates on taxon names since the publication of the manuscript.
 
-- *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Siebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
+- The species listed as *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Siebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
 
-- *Clausophyes ovata* has been renamed *Kephyes ovata* by [Pugh 2006](http://dx.doi.org/10.1017/S002531540601397X)
+- The species listed as *Clausophyes ovata* has been renamed *Kephyes ovata* by [Pugh 2006](http://dx.doi.org/10.1017/S002531540601397X)
+
+- The species listed as *Sphaeronectes gracilis* is *Sphaeronectes koellikeri* [Pugh 2009](http://www.mapress.com/j/zt/article/view/6658)
+
+- The species listed as *Cordagalma cordiforme* is *Cordagalma ordinatum* [Pugh 2016](http://dx.doi.org/10.11646/zootaxa.4095.1.1)
