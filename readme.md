@@ -27,6 +27,6 @@ There have been several updates on taxon names since the publication of the manu
 
 - The species listed as *Clausophyes ovata* has been renamed *Kephyes ovata* by [Pugh 2006](http://dx.doi.org/10.1017/S002531540601397X)
 
-- The species listed as *Sphaeronectes gracilis* is *Sphaeronectes koellikeri* [Pugh 2009](http://www.mapress.com/j/zt/article/view/6658)
+- The species listed as *Sphaeronectes gracilis* is *Sphaeronectes koellikeri*, [Pugh 2009](http://www.mapress.com/j/zt/article/view/6658)
 
-- The species listed as *Cordagalma cordiforme* is *Cordagalma ordinatum* [Pugh 2016](http://dx.doi.org/10.11646/zootaxa.4095.1.1)
+- The species listed as *Cordagalma cordiforme* is *Cordagalma ordinatum*, [Pugh 2016](http://dx.doi.org/10.11646/zootaxa.4095.1.1)
