@@ -25,6 +25,8 @@ There have been several updates on taxon names since the publication of the manu
 
 - The species listed as *Apolemia sp 4* has since been described as *Apolemia lanosa* by [Siebert et al. 2013](http://dx.doi.org/10.11646/zootaxa.3702.3.1).
 
+- The species listed as *Erenna sp* has since been described as *Erenna sirena* by [Pugh and Haddock 2016](http://dx.doi.org/10.11646/zootaxa.4189.3.1).
+
 - The specimen collected during dive T594 was identified as *Clausophyes ovata* in this manuscript. Subsequently, the species has been moved into a new genus, *Kephyes* [Pugh, 2006](ttp://dx.doi.org/10.1017/S002531540601397X), and closer examination of further specimens from Monterey Bay has shown that they actually belong not to *K. ovata* but to a new species that herein is referred to as *Kephyes* sp. nov. 1.
 
 - The species listed as *Sphaeronectes gracilis* is *Sphaeronectes koellikeri*, [Pugh 2009](http://www.mapress.com/j/zt/article/view/6658)
