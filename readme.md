@@ -33,4 +33,6 @@ There have been several updates on taxon names since the publication of the manu
 
 - The species listed as *Cordagalma cordiforme* is *Cordagalma ordinatum*, [Pugh 2016](http://dx.doi.org/10.11646/zootaxa.4095.1.1)
 
+- The species listed as *Nanomia bijuga* Paciific is *Nanomia septata*, [Mapstone, Mańko, Martell, Haddock & Hosia in Hosia et al., 2024](https://doi.org/10.3389/fmars.2024.1421514)
+
 - Per [Article 33.4 of the ICZN](http://www.nhm.ac.uk/hosted-sites/iczn/code/index.jsp?nfv=true&article=33), species names that were originally described with *ii* at the end but subsequently changed to *i* should now be changed back to *ii*. This affects the following species in this study: *Rhizophysa eysenhardtii*, *Agalma okenii*, and *Forskalia edwardsii*.
